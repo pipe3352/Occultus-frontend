@@ -6,9 +6,9 @@ no invented features.
 
 ## Requirements
 
-- Node.js 20+ (developed on 24)
+- Node.js 20+ 
 - The Rust backend running on `http://localhost:8000`
-- PostgreSQL, as configured in `Occultus/.env`
+- PostgreSQL
 
 ## Running
 
